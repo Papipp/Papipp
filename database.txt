@@ -1,0 +1,16 @@
+Nama: alex
+Tanggal Lahir: 19november 1995
+Asal Daerah: makassar
+
+Nama: Apip akmalul iman
+Tanggal Lahir: 20 maret 2005
+Asal Daerah: Cirebon
+
+Nama: Apip akmalul iman
+Tanggal Lahir: 20 maret 2005
+Asal Daerah: Cirebon& "C:/Program Files/Python313/python.exe" d:/Programing/Latihan.py
+
+Nama: robin
+Tanggal Lahir: 21 mei
+Asal Daerah: rf
+

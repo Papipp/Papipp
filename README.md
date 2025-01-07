@@ -2,7 +2,7 @@
 
 ## Informasi Pribadi
 - **Nama**: Apip Akmalul Iman  
-- **NPM**: 242104014  
+- **NPM** : 242104014  
 - **Program Studi**: Teknologi Informasi  
 - **Kampus**: Universitas Jenderal Achmad Yani Yogyakarta (UNJAYA)
 

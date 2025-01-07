@@ -17,8 +17,8 @@ Tujuan saya adalah untuk:
 
 ## Kontak
 Jika ingin berkomunikasi, silakan hubungi saya melalui:
-- **Email**: akmalulimanapip804@gmail
-- **LinkedIn**: [linkedin.com/in/apip akmalul iman](https://linkedin.com/in/apip-akmalul-iman)  
+- **Email** : akmalulimanapip804@gmail
+- **LinkedIn** : [linkedin.com/in/apip akmalul iman](https://linkedin.com/in/apip-akmalul-iman)  
 
 Terima kasih telah mengunjungi profil saya!
 

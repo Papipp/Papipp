@@ -4,7 +4,7 @@
 - **Nama**: Apip Akmalul Iman  
 - **NPM**: 242104014  
 - **Program Studi**: Teknologi Informasi  
-- **Kampus**: Universitas Jenderal Achmad Yani (UNJAYA)
+- **Kampus**: Universitas Jenderal Achmad Yani Yogyakarta (UNJAYA)
 
 ## Tentang Saya
 Saya adalah seorang mahasiswa Program Studi Teknologi Informasi di Universitas Jenderal Achmad Yani (UNJAYA). Saya memiliki minat besar dalam pengembangan perangkat lunak, pemrograman, dan teknologi inovatif yang dapat memberikan solusi efektif untuk berbagai permasalahan.

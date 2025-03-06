@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toko Online</title>
+</head>
+<body>
+    <h1>Daftar Produk</h1>
+    <ul>
+        {% for produk in produk_list %}
+            <li>{{ produk.nama }} - Rp{{ produk.harga }} (Stok: {{ produk.stok }})</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Tambah Produk</h2>
+    <form action="/tambah_produk" method="post">
+        <input type="text" name="nama" placeholder="Nama Produk" required>
+        <input type="number" name="harga" placeholder="Harga" required>
+        <input type="number" name="stok" placeholder="Stok" required>
+        <button type="submit">Tambah</button>
+    </form>
+</body>
+</html>
